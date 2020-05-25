@@ -1,0 +1,1 @@
+Clueless crosswords does not collect or have access to any data used within the Clueless Crosswords app. All game data is stored on the device locally and is never sent to Clueless Crosswords or any third-party services.
